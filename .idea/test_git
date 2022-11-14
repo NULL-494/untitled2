@@ -1,5 +1,6 @@
-pubilc class GITTest{
-    public stastic void main(string[] args) {
-        system.out.println("hello git!");
-        }
-    }
+//package com.atgui.com;
+//pubilc class GITTest{
+ //   public stastic void main(string[] args) {
+  //      system.out.println("hello git!");
+  //      }
+  //  }
